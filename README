@@ -5,3 +5,5 @@ Modified N-unit tests in HotelTest.cs and FlightTest.cs
 Answers to questions in Lab03.pdf
 
 Who worked with me on this lab in who.txt
+
+All code, including modified test code, from the UnitTesting project is included in the Lab3-UnitTesting-Code directory.  For just the modified classes, see the code in the home directory.
